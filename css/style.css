@@ -1,0 +1,118 @@
+
+body{
+    background-color: lightblue
+}
+
+#head{
+    height: 70px;
+    border: 1px solid;
+    border-color: rgb(54, 67, 173);
+    margin-bottom: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(75,185,214);
+    vertical-align: middle;
+    
+}
+.bg-primary2{
+    background-color: rgb(75,185,214);
+}
+#digibyte{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 130px;
+
+}
+
+#logodigimon{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80px;
+    width: 300px;
+
+}
+
+.centerBox{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+}
+
+#boton{
+    display:block;
+    margin-left: auto;
+    height: 130px;
+}
+
+
+#selectorforsomewidget {
+    box-sizing: content-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2px;
+    height: 150px;
+  }
+
+.imgDigimon{
+    height: 350px;
+    width: 450px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    display: block;
+}
+
+#imgDelDigimon{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.info{
+    height: 200px;
+    width: 250px;
+    border: 1px solid;
+    border-color: white;
+    display: block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.digimones{
+    height: 700px;
+    width: 900px;
+    border: 1px solid;
+    border-color: brown;
+    display: inline-block;
+    margin-top: 25px;
+}
+
+.digimon{
+    width: 500px;
+}
+
+.todosDigimon{
+    width: 1000px;
+}
+
+.body{
+    display: inline-block;
+    border: 1px solid;
+    border-color:lightblue;
+    height: 800px;
+}
+
+.parrafo{
+    border: 1px solid;
+    border-color: black;
+}
+
+.digimonesChiquitos{
+    width: 55px;
+    border: 1px solid;
+    border-color:lightblue;
+    background-color: lightseagreen;
+}
